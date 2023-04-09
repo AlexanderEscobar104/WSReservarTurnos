@@ -1,5 +1,7 @@
 # WSReservarTurnos
 
+# tipo proyecto 
+
 .net core 6.0
 
 # base de datos sql server 
